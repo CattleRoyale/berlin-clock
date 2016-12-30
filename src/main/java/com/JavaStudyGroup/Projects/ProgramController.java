@@ -19,6 +19,10 @@ public class ProgramController {
             userInput = ui.getTime();
         }
 
+        // Create ClockCreater object
+        System.out.println("Creating clock object...");
+        ClockCreater clock = new ClockCreater(userInput);
+        System.out.println("Clock object created!");
 
     }
 }
