@@ -43,15 +43,15 @@ public class RenderClockConsole implements RenderClock {
 
         System.out.println("╔═╗╔═╗╔═╗ ╔═╗╔═╗╔═╗ ╔═╗╔═╗╔═╗ ╔═╗╔═╗");
         System.out.println("║"+ clock.getDisplayMinutesRow1()[0] +
-                "║"+ clock.getDisplayMinutesRow1()[1] +
-                "║"+ clock.getDisplayMinutesRow1()[2] +
-                "║"+ clock.getDisplayMinutesRow1()[3] +
-                "║"+ clock.getDisplayMinutesRow1()[4] +
-                "║"+ clock.getDisplayMinutesRow1()[5] +
-                "║"+ clock.getDisplayMinutesRow1()[6] +
-                "║"+ clock.getDisplayMinutesRow1()[7] +
-                "║"+ clock.getDisplayMinutesRow1()[8] +
-                "║"+ clock.getDisplayMinutesRow1()[9] +
+                "║║"+ clock.getDisplayMinutesRow1()[1] +
+                "║║"+ clock.getDisplayMinutesRow1()[2] +
+                "║ ║"+ clock.getDisplayMinutesRow1()[3] +
+                "║║"+ clock.getDisplayMinutesRow1()[4] +
+                "║║"+ clock.getDisplayMinutesRow1()[5] +
+                "║ ║"+ clock.getDisplayMinutesRow1()[6] +
+                "║║"+ clock.getDisplayMinutesRow1()[7] +
+                "║║"+ clock.getDisplayMinutesRow1()[8] +
+                "║ ║"+ clock.getDisplayMinutesRow1()[9] +
                 "║"+ clock.getDisplayMinutesRow1()[10] +"║"
         );
         System.out.println("╚═╝╚═╝╚═╝ ╚═╝╚═╝╚═╝ ╚═╝╚═╝╚═╝ ╚═╝╚═╝");

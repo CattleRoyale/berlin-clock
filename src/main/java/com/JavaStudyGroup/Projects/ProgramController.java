@@ -28,7 +28,7 @@ public class ProgramController {
         clock.initialiseValues();
 
         // Render clock in console:
-        RenderClock render = new RenderClockConsole(clock);
+        RenderClock render = new RenderClockWindow(clock);
         render.drawClock();
 
     }

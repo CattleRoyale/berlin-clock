@@ -9,6 +9,8 @@ public class ClockCreater {
     private int minutes;
     private int seconds;
 
+    private String time;
+
     private char displaySeconds;
 
     private char[] displayHoursRow1 = new char[4];
@@ -18,6 +20,7 @@ public class ClockCreater {
     private char[] displayMinutesRow2 = new char[4];
 
     public ClockCreater (String time){
+        this.time = time;
         System.out.println("Parsing hours...");
         this.hours = Integer.parseInt(time.substring(0,2));
         System.out.println("Hours: " + hours);
@@ -150,4 +153,8 @@ public class ClockCreater {
     }
 
     public char[] getDisplayMinutesRow2() {return displayMinutesRow2;}
+
+    public String getTime() {
+        return time;
+    }
 }

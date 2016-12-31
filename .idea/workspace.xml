@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2a14915-2ffe-487b-bec8-70a066bed606" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/JavaStudyGroup/Projects/ClockCreater.class" afterPath="$PROJECT_DIR$/target/classes/com/JavaStudyGroup/Projects/ClockCreater.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/JavaStudyGroup/Projects/ProgramController.class" afterPath="$PROJECT_DIR$/target/classes/com/JavaStudyGroup/Projects/ProgramController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClockWindow.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/JavaStudyGroup/Projects/RenderClockConsole.class" afterPath="$PROJECT_DIR$/target/classes/com/JavaStudyGroup/Projects/RenderClockConsole.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ClockCreater.java" afterPath="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ClockCreater.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ProgramController.java" afterPath="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ProgramController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClock.java" afterPath="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClock.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClockConsole.java" afterPath="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClockConsole.java" />
     </list>
     <ignored path="TheBerlinClock.iws" />
@@ -44,14 +43,10 @@
       <file leaf-file-name="UserInput.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/UserInput.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
+            <state relative-caret-position="539">
               <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#356#357#0" expanded="true" />
-                <element signature="e#398#399#0" expanded="true" />
-                <element signature="e#432#433#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -60,8 +55,8 @@
       <file leaf-file-name="ProgramController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ProgramController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            <state relative-caret-position="291">
+              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -70,11 +65,25 @@
       <file leaf-file-name="RenderClockConsole.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClockConsole.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+            <state relative-caret-position="385">
+              <caret line="68" column="55" selection-start-line="41" selection-start-column="8" selection-end-line="68" selection-end-column="55" />
               <folding>
                 <element signature="e#228#229#0" expanded="true" />
                 <element signature="e#262#263#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RenderClockWindow.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClockWindow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+                <element signature="e#301#302#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -93,9 +102,12 @@
       <file leaf-file-name="ClockCreater.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ClockCreater.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="139" column="39" selection-start-line="139" selection-start-column="18" selection-end-line="139" selection-end-column="39" />
-              <folding />
+            <state relative-caret-position="-2287">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <folding>
+                <element signature="e#3644#3645#0" expanded="true" />
+                <element signature="e#3671#3672#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -131,8 +143,8 @@
       <list>
         <option value="JUnit3 Test Class" />
         <option value="JUnit4 Test Class" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -153,10 +165,11 @@
         <option value="$PROJECT_DIR$/src/test/java/com/JavaStudyGroup/Projects/UserInputTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/UserInput.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/JavaStudyGroup/Projects/ClockCreaterTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ClockCreater.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClock.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ProgramController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClockConsole.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ProgramController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ClockCreater.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClockWindow.java" />
       </list>
     </option>
   </component>
@@ -814,10 +827,6 @@
           <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -834,7 +843,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1276">
           <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
-          <folding />
+          <folding>
+            <element signature="e#3644#3645#0" expanded="true" />
+            <element signature="e#3671#3672#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -884,20 +896,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/UserInput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/JavaStudyGroup/Projects/UserInputTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="687">
@@ -918,11 +916,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ClockCreater.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClockConsole.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="139" column="39" selection-start-line="139" selection-start-column="18" selection-end-line="139" selection-end-column="39" />
-          <folding />
+        <state relative-caret-position="385">
+          <caret line="68" column="55" selection-start-line="41" selection-start-column="8" selection-end-line="68" selection-end-column="55" />
+          <folding>
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/UserInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -934,21 +945,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClockConsole.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ClockCreater.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        <state relative-caret-position="-2287">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
           <folding>
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#3644#3645#0" expanded="true" />
+            <element signature="e#3671#3672#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClockWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ProgramController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        <state relative-caret-position="291">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
           <folding />
         </state>
       </provider>
