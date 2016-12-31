@@ -22,14 +22,17 @@ public class ProgramController {
         // Create ClockCreater object
         System.out.println("Creating clock object...");
         ClockCreater clock = new ClockCreater(userInput);
-        System.out.println("Clock object created!");
+        System.out.println("Clock object created...");
 
         // Initialise values
+        System.out.println("Initialising clock values...");
         clock.initialiseValues();
 
         // Render clock in console:
+        System.out.println("Drawing clock...");
         RenderClock render = new RenderClockWindow(clock);
         render.drawClock();
+        System.out.println("Clock created successfully.");
 
     }
 }

@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2a14915-2ffe-487b-bec8-70a066bed606" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClockWindow.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/JavaStudyGroup/Projects/RenderClockConsole.class" afterPath="$PROJECT_DIR$/target/classes/com/JavaStudyGroup/Projects/RenderClockConsole.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ClockCreater.java" afterPath="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ClockCreater.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ProgramController.java" afterPath="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ProgramController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClockConsole.java" afterPath="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClockConsole.java" />
     </list>
     <ignored path="TheBerlinClock.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,8 +50,8 @@
       <file leaf-file-name="ProgramController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ProgramController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+            <state relative-caret-position="748">
+              <caret line="34" column="55" selection-start-line="34" selection-start-column="55" selection-end-line="34" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -167,9 +162,9 @@
         <option value="$PROJECT_DIR$/src/test/java/com/JavaStudyGroup/Projects/ClockCreaterTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClock.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClockConsole.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ProgramController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ClockCreater.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClockWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ProgramController.java" />
       </list>
     </option>
   </component>
@@ -970,8 +965,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ProgramController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+        <state relative-caret-position="748">
+          <caret line="34" column="55" selection-start-line="34" selection-start-column="55" selection-end-line="34" selection-end-column="55" />
           <folding />
         </state>
       </provider>
