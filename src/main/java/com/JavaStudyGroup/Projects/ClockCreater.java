@@ -29,6 +29,12 @@ public class ClockCreater {
         System.out.println("Seconds: " + seconds);
     }
 
+    public void initialiseValues(){
+        createSeconds();
+        createHours();
+        createMinutes();
+    }
+
     public void createSeconds(){
         if(seconds%2==0){
             displaySeconds = 'Y';

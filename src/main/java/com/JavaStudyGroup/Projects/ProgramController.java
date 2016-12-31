@@ -24,5 +24,12 @@ public class ProgramController {
         ClockCreater clock = new ClockCreater(userInput);
         System.out.println("Clock object created!");
 
+        // Initialise values
+        clock.initialiseValues();
+
+        // Render clock in console:
+        RenderClock render = new RenderClockConsole(clock);
+        render.drawClock();
+
     }
 }

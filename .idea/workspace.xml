@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2a14915-2ffe-487b-bec8-70a066bed606" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClock.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClockConsole.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/JavaStudyGroup/Projects/ClockCreater.class" afterPath="$PROJECT_DIR$/target/classes/com/JavaStudyGroup/Projects/ClockCreater.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/JavaStudyGroup/Projects/ClockCreaterTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/JavaStudyGroup/Projects/ClockCreaterTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/JavaStudyGroup/Projects/ProgramController.class" afterPath="$PROJECT_DIR$/target/classes/com/JavaStudyGroup/Projects/ProgramController.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ClockCreater.java" afterPath="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ClockCreater.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/JavaStudyGroup/Projects/ClockCreaterTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/JavaStudyGroup/Projects/ClockCreaterTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ProgramController.java" afterPath="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ProgramController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClock.java" afterPath="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClock.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClockConsole.java" afterPath="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClockConsole.java" />
     </list>
     <ignored path="TheBerlinClock.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,22 +57,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProgramController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ProgramController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ProgramController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <state relative-caret-position="401">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RenderClockConsole.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RenderClockConsole.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClockConsole.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="517">
+              <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+              <folding>
+                <element signature="e#228#229#0" expanded="true" />
+                <element signature="e#262#263#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,7 +84,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClock.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
-              <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -90,8 +93,8 @@
       <file leaf-file-name="ClockCreater.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ClockCreater.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="539">
-              <caret line="145" column="69" selection-start-line="145" selection-start-column="69" selection-end-line="145" selection-end-column="69" />
+            <state relative-caret-position="393">
+              <caret line="139" column="39" selection-start-line="139" selection-start-column="18" selection-end-line="139" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -149,10 +152,10 @@
         <option value="C:/Program Files/Java/jdk1.8.0_92/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class" />
         <option value="$PROJECT_DIR$/src/test/java/com/JavaStudyGroup/Projects/UserInputTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/UserInput.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ProgramController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ClockCreater.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/JavaStudyGroup/Projects/ClockCreaterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ClockCreater.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ProgramController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClockConsole.java" />
       </list>
     </option>
@@ -295,33 +298,7 @@
       <recent name="junit.framework.TestCase" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ClockCreaterTest.createMinutes_23_00_19">
-    <configuration default="false" name="ClockCreaterTest.createHours" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.JavaStudyGroup.Projects.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="TheBerlinClock" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.JavaStudyGroup.Projects" />
-      <option name="MAIN_CLASS_NAME" value="com.JavaStudyGroup.Projects.ClockCreaterTest" />
-      <option name="METHOD_NAME" value="createHours" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.ProgramController">
     <configuration default="false" name="ClockCreaterTest.createHours_13_09_53" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -424,6 +401,26 @@
       </option>
       <envs />
       <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="ProgramController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.JavaStudyGroup.Projects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.JavaStudyGroup.Projects.ProgramController" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="TheBerlinClock" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -661,19 +658,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.ClockCreaterTest.createHours" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.ClockCreaterTest.createHours_13_09_53" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.ClockCreaterTest.createHours_23_45_19" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.ClockCreaterTest.createMinutes_23_45_19" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.ClockCreaterTest.createMinutes_23_00_19" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.ClockCreaterTest.createHours_13_09_53" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ClockCreaterTest.createHours_23_45_19" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ClockCreaterTest.createMinutes_23_45_19" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ClockCreaterTest.createMinutes_23_00_19" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ProgramController" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.ClockCreaterTest.createMinutes_23_00_19" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ClockCreaterTest.createMinutes_23_45_19" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.ClockCreaterTest.createHours_23_45_19" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.ClockCreaterTest.createHours_13_09_53" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.ClockCreaterTest.createHours" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ProgramController" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ClockCreaterTest.createMinutes_23_00_19" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.ClockCreaterTest.createMinutes_23_45_19" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ClockCreaterTest.createHours_23_45_19" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.ClockCreaterTest.createHours_13_09_53" />
       </list>
     </recent_temporary>
   </component>
@@ -737,11 +734,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.209375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.209375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -911,14 +908,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ClockCreater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="145" column="69" selection-start-line="145" selection-start-column="69" selection-end-line="145" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/JavaStudyGroup/Projects/ClockCreaterTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2156">
@@ -929,10 +918,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ProgramController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ClockCreater.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        <state relative-caret-position="393">
+          <caret line="139" column="39" selection-start-line="139" selection-start-column="18" selection-end-line="139" selection-end-column="39" />
           <folding />
         </state>
       </provider>
@@ -940,15 +929,26 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/RenderClockConsole.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="517">
+          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding>
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/JavaStudyGroup/Projects/ProgramController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
           <folding />
         </state>
       </provider>
