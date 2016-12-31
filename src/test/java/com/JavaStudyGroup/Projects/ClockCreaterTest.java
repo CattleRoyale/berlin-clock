@@ -24,19 +24,86 @@ public class ClockCreaterTest {
     }
 
     @Test
-    public void createHours() throws Exception {
+    public void createHours_13_09_53() throws Exception {
         ClockCreater clock = new ClockCreater("13::09:53");
         clock.createHours();
         char[] hoursRow1 = clock.getDisplayHoursRow1();
+        char[] hoursRow2 = clock.getDisplayHoursRow2();
         assertThat(hoursRow1[0], is('R'));
         assertThat(hoursRow1[1], is('R'));
         assertThat(hoursRow1[2], is('O'));
         assertThat(hoursRow1[3], is('O'));
 
+        assertThat(hoursRow2[0], is('R'));
+        assertThat(hoursRow2[1], is('R'));
+        assertThat(hoursRow2[2], is('R'));
+        assertThat(hoursRow2[3], is('O'));
     }
 
     @Test
-    public void createMinutes() throws Exception {
+    public void createHours_23_45_19() throws Exception {
+        ClockCreater clock = new ClockCreater("23::45:19");
+        clock.createHours();
+        char[] hoursRow1 = clock.getDisplayHoursRow1();
+        char[] hoursRow2 = clock.getDisplayHoursRow2();
+        assertThat(hoursRow1[0], is('R'));
+        assertThat(hoursRow1[1], is('R'));
+        assertThat(hoursRow1[2], is('R'));
+        assertThat(hoursRow1[3], is('R'));
+
+        assertThat(hoursRow2[0], is('R'));
+        assertThat(hoursRow2[1], is('R'));
+        assertThat(hoursRow2[2], is('R'));
+        assertThat(hoursRow2[3], is('O'));
+    }
+
+    @Test
+    public void createMinutes_23_45_19() throws Exception {
+        ClockCreater clock = new ClockCreater("23::45:19");
+        clock.createMinutes();
+        char[] minutesRow1 = clock.getDisplayMinutesRow1();
+        char[] minutesRow2 = clock.getDisplayMinutesRow2();
+        assertThat(minutesRow1[0], is('Y'));
+        assertThat(minutesRow1[1], is('Y'));
+        assertThat(minutesRow1[2], is('R'));
+        assertThat(minutesRow1[3], is('Y'));
+        assertThat(minutesRow1[4], is('Y'));
+        assertThat(minutesRow1[5], is('R'));
+        assertThat(minutesRow1[6], is('Y'));
+        assertThat(minutesRow1[7], is('Y'));
+        assertThat(minutesRow1[8], is('R'));
+        assertThat(minutesRow1[9], is('O'));
+        assertThat(minutesRow1[10], is('O'));
+
+        assertThat(minutesRow2[0], is('O'));
+        assertThat(minutesRow2[1], is('O'));
+        assertThat(minutesRow2[2], is('O'));
+        assertThat(minutesRow2[3], is('O'));
+
+    }
+
+    @Test
+    public void createMinutes_23_00_19() throws Exception {
+        ClockCreater clock = new ClockCreater("23::00:19");
+        clock.createMinutes();
+        char[] minutesRow1 = clock.getDisplayMinutesRow1();
+        char[] minutesRow2 = clock.getDisplayMinutesRow2();
+        assertThat(minutesRow1[0], is('O'));
+        assertThat(minutesRow1[1], is('O'));
+        assertThat(minutesRow1[2], is('O'));
+        assertThat(minutesRow1[3], is('O'));
+        assertThat(minutesRow1[4], is('O'));
+        assertThat(minutesRow1[5], is('O'));
+        assertThat(minutesRow1[6], is('O'));
+        assertThat(minutesRow1[7], is('O'));
+        assertThat(minutesRow1[8], is('O'));
+        assertThat(minutesRow1[9], is('O'));
+        assertThat(minutesRow1[10], is('O'));
+
+        assertThat(minutesRow2[0], is('O'));
+        assertThat(minutesRow2[1], is('O'));
+        assertThat(minutesRow2[2], is('O'));
+        assertThat(minutesRow2[3], is('O'));
 
     }
 

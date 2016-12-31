@@ -67,6 +67,36 @@ public class ClockCreater {
 
     public void createMinutes(){
 
+        int row1BoxesToFill = minutes/5;
+        int row2BoxesToFill = minutes%5;
+
+        //Create Line 1:
+        for(int i = 0;i<11;i++){
+            if (i<row1BoxesToFill){
+                if(i==2||
+                        i==5||
+                        i==8) {
+                    displayMinutesRow1[i] = 'R';
+                }
+                else{
+                    displayMinutesRow1[i] = 'Y';
+                }
+            }
+            else{
+                displayMinutesRow1[i] = 'O';
+            }
+        }
+
+        //Create Line 2
+        for(int i = 0;i<4;i++){
+            if (i<row2BoxesToFill){
+                displayMinutesRow2[i] = 'Y';
+            }
+            else{
+                displayMinutesRow2[i] = 'O';
+            }
+        }
+
     }
 
     public int getHours() {
@@ -108,4 +138,10 @@ public class ClockCreater {
     public char[] getDisplayHoursRow2() {
         return displayHoursRow2;
     }
+
+    public char[] getDisplayMinutesRow1() {
+        return displayMinutesRow1;
+    }
+
+    public char[] getDisplayMinutesRow2() {return displayMinutesRow2;}
 }
