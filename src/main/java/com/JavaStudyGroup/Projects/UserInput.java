@@ -24,7 +24,7 @@ public class UserInput {
     public String getTime() {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        System.out.println("Please enter time:");
+        System.out.println("Please enter time (hh::mm:ss):");
         String userInput = null;
         try {
             userInput = br.readLine();
